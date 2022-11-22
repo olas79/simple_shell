@@ -1,0 +1,26 @@
+* {
+    margin: 0px;
+    padding: 0px;
+  }
+  body {
+    font-size: 120%;
+    background: #f7f4f4;
+  }
+  .form{
+    border: 1px solid #0c0c0c;
+    background: red;
+    margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+  }
+  
+  .header {
+    width: 100%;
+    margin: 50px auto 0px;
+    color: white;
+    background: #411c86;
+    padding: 20px;
+  }
+  
+  
